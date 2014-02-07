@@ -1,6 +1,10 @@
-<Version 1.0>
+Version 1.0
+
+
 NITC Online Hall Booking Sysytem 
+
 Software Engineering Project
+
 Teacher-in Charge: Vinod Pathari, Bharat Narayan.
 
 Team Members:
